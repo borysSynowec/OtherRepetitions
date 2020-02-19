@@ -87,9 +87,6 @@ font-size: 20px;
     background-color: #5e3232;
     text-align: center;
 }
-.tile4:hover{
-    background-color: #4d2121;
-}
 
 
 .tile5 {
@@ -107,6 +104,9 @@ font-size: 20px;
     background-color: #d94348;
     float: left;
 }
+#yt:hover {
+    background-color: #c83237;
+}
 
 #fb {
     margin: 10px;
@@ -114,6 +114,9 @@ font-size: 20px;
     height: 142px;
     background-color: #4468b3;
     float: left;
+}
+#fb:hover {
+    background-color: #3357a2;
 }
 
 #gp {
@@ -123,6 +126,9 @@ font-size: 20px;
     background-color: #d95333;
     float: left;
 }
+#gp:hover {
+    background-color: #c84222;
+}
 
 #tw {
     margin: 10px;
@@ -130,6 +136,9 @@ font-size: 20px;
     height: 142px;
     background-color: #3095d3;
     float: left;
+}
+#tw:hover {
+    background-color: #2084c2;
 }
 
 #bottom {
